@@ -186,12 +186,6 @@ exports[`SideNav populates the display build information using the response from
       title="Github Repo"
       to="https://github.com/kubeflow/pipelines"
     />
-    <ExternalUri
-      collapsed={false}
-      icon={[Function]}
-      title="AI Hub Samples"
-      to="https://aihub.cloud.google.com/u/0/s?category=pipeline"
-    />
     <hr
       className="separator"
     />
@@ -434,12 +428,6 @@ exports[`SideNav renders Pipelines as active page 1`] = `
       title="Github Repo"
       to="https://github.com/kubeflow/pipelines"
     />
-    <ExternalUri
-      collapsed={false}
-      icon={[Function]}
-      title="AI Hub Samples"
-      to="https://aihub.cloud.google.com/u/0/s?category=pipeline"
-    />
     <hr
       className="separator"
     />
@@ -660,12 +648,6 @@ exports[`SideNav renders Pipelines as active when on PipelineDetails page 1`] = 
       icon={[Function]}
       title="Github Repo"
       to="https://github.com/kubeflow/pipelines"
-    />
-    <ExternalUri
-      collapsed={false}
-      icon={[Function]}
-      title="AI Hub Samples"
-      to="https://aihub.cloud.google.com/u/0/s?category=pipeline"
     />
     <hr
       className="separator"
@@ -888,12 +870,6 @@ exports[`SideNav renders collapsed state 1`] = `
       title="Github Repo"
       to="https://github.com/kubeflow/pipelines"
     />
-    <ExternalUri
-      collapsed={true}
-      icon={[Function]}
-      title="AI Hub Samples"
-      to="https://aihub.cloud.google.com/u/0/s?category=pipeline"
-    />
     <hr
       className="separator collapsedSeparator"
     />
@@ -1114,12 +1090,6 @@ exports[`SideNav renders expanded state 1`] = `
       icon={[Function]}
       title="Github Repo"
       to="https://github.com/kubeflow/pipelines"
-    />
-    <ExternalUri
-      collapsed={false}
-      icon={[Function]}
-      title="AI Hub Samples"
-      to="https://aihub.cloud.google.com/u/0/s?category=pipeline"
     />
     <hr
       className="separator"
@@ -1342,12 +1312,6 @@ exports[`SideNav renders experiments as active page 1`] = `
       title="Github Repo"
       to="https://github.com/kubeflow/pipelines"
     />
-    <ExternalUri
-      collapsed={false}
-      icon={[Function]}
-      title="AI Hub Samples"
-      to="https://aihub.cloud.google.com/u/0/s?category=pipeline"
-    />
     <hr
       className="separator"
     />
@@ -1568,12 +1532,6 @@ exports[`SideNav renders experiments as active page when on AllRuns page 1`] = `
       icon={[Function]}
       title="Github Repo"
       to="https://github.com/kubeflow/pipelines"
-    />
-    <ExternalUri
-      collapsed={false}
-      icon={[Function]}
-      title="AI Hub Samples"
-      to="https://aihub.cloud.google.com/u/0/s?category=pipeline"
     />
     <hr
       className="separator"
@@ -1796,12 +1754,6 @@ exports[`SideNav renders experiments as active page when on Compare page 1`] = `
       title="Github Repo"
       to="https://github.com/kubeflow/pipelines"
     />
-    <ExternalUri
-      collapsed={false}
-      icon={[Function]}
-      title="AI Hub Samples"
-      to="https://aihub.cloud.google.com/u/0/s?category=pipeline"
-    />
     <hr
       className="separator"
     />
@@ -2022,12 +1974,6 @@ exports[`SideNav renders experiments as active page when on NewExperiment page 1
       icon={[Function]}
       title="Github Repo"
       to="https://github.com/kubeflow/pipelines"
-    />
-    <ExternalUri
-      collapsed={false}
-      icon={[Function]}
-      title="AI Hub Samples"
-      to="https://aihub.cloud.google.com/u/0/s?category=pipeline"
     />
     <hr
       className="separator"
@@ -2250,12 +2196,6 @@ exports[`SideNav renders experiments as active page when on NewRun page 1`] = `
       title="Github Repo"
       to="https://github.com/kubeflow/pipelines"
     />
-    <ExternalUri
-      collapsed={false}
-      icon={[Function]}
-      title="AI Hub Samples"
-      to="https://aihub.cloud.google.com/u/0/s?category=pipeline"
-    />
     <hr
       className="separator"
     />
@@ -2476,12 +2416,6 @@ exports[`SideNav renders experiments as active page when on RecurringRunDetails 
       icon={[Function]}
       title="Github Repo"
       to="https://github.com/kubeflow/pipelines"
-    />
-    <ExternalUri
-      collapsed={false}
-      icon={[Function]}
-      title="AI Hub Samples"
-      to="https://aihub.cloud.google.com/u/0/s?category=pipeline"
     />
     <hr
       className="separator"
@@ -2704,12 +2638,6 @@ exports[`SideNav renders experiments as active page when on RunDetails page 1`] 
       title="Github Repo"
       to="https://github.com/kubeflow/pipelines"
     />
-    <ExternalUri
-      collapsed={false}
-      icon={[Function]}
-      title="AI Hub Samples"
-      to="https://aihub.cloud.google.com/u/0/s?category=pipeline"
-    />
     <hr
       className="separator"
     />
@@ -2930,12 +2858,6 @@ exports[`SideNav renders experiments as active when on ExperimentDetails page 1`
       icon={[Function]}
       title="Github Repo"
       to="https://github.com/kubeflow/pipelines"
-    />
-    <ExternalUri
-      collapsed={false}
-      icon={[Function]}
-      title="AI Hub Samples"
-      to="https://aihub.cloud.google.com/u/0/s?category=pipeline"
     />
     <hr
       className="separator"
@@ -3194,12 +3116,6 @@ exports[`SideNav show jupyterhub link if accessible 1`] = `
       icon={[Function]}
       title="Github Repo"
       to="https://github.com/kubeflow/pipelines"
-    />
-    <ExternalUri
-      collapsed={false}
-      icon={[Function]}
-      title="AI Hub Samples"
-      to="https://aihub.cloud.google.com/u/0/s?category=pipeline"
     />
     <hr
       className="separator"

@@ -495,18 +495,6 @@ export class SideNav extends React.Component<SideNavInternalProps, SideNavState>
               <img src={GitHubIcon} className={classes(className, css.iconImage)} alt='Github' />
             )}
           />
-          <ExternalUri
-            title={'AI Hub Samples'}
-            to={ExternalLinks.AI_HUB}
-            collapsed={collapsed}
-            icon={className => (
-              <img
-                src='https://www.gstatic.com/aihub/aihub_favicon.png'
-                className={classes(className, css.iconImage)}
-                alt='AI Hub'
-              />
-            )}
-          />
           <hr className={classes(css.separator, collapsed && css.collapsedSeparator)} />
           <IconButton
             className={classes(css.chevron, collapsed && css.collapsedChevron)}
